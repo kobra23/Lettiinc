@@ -217,6 +217,7 @@ html{
     position: relative;
     display: inline-block;
 }
+
 .about .about-img .about-img-wrapper img{
     height: 100%;
     width: 100%;
@@ -233,6 +234,29 @@ html{
     z-index: -1;
 }
 /* end about section */
+.handmade{
+    text-align: center;
+}
+.handmade img{
+    width: 400x;
+    height: 400px;
+}
+/*start mission*/
+
+.about .about-inf{
+    text-align: center
+}
+.about .about-inf .about-info-headin{
+    text-transform: uppercase;
+    letter-spacing: .3rem;
+    color: black;
+}
+.about .about-inf .about-info-desc{
+    line-height: 2rem;
+    margin-top: 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+/*end mission */
 
 /* locatin */
 #loca .mytext{
@@ -357,6 +381,9 @@ html{
     width: 100%;
     background-color: rgba(0, 0, 0, 0.489);
     z-index: -1;
+}
+.service .service-font-heading{
+    color: white;
 }
 
 /* end service section */
