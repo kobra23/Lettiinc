@@ -143,6 +143,10 @@ html{
     justify-content: center;
     align-items: center;
 }
+.hero .kuxneqsa{
+    width: 900px;
+    height: 900px;
+}
 .hero .hero-info{
     width: 100%;
     text-align: center;
